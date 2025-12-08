@@ -27,3 +27,4 @@ int main() {
 	printf("Aproximace cisla Pi pomoci metody Monte Carlo: %f\n", pi);
 
 	return 0;
+}
