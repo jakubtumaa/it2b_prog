@@ -1,0 +1,17 @@
+C:\Users\st026360\OneDrive - Střední škola informatiky, poštovnictví a finančnictví Brno\it2b_prog\BlockGame\bin\Debug\net8.0-windows\BlockGame.exe
+C:\Users\st026360\OneDrive - Střední škola informatiky, poštovnictví a finančnictví Brno\it2b_prog\BlockGame\bin\Debug\net8.0-windows\BlockGame.deps.json
+C:\Users\st026360\OneDrive - Střední škola informatiky, poštovnictví a finančnictví Brno\it2b_prog\BlockGame\bin\Debug\net8.0-windows\BlockGame.runtimeconfig.json
+C:\Users\st026360\OneDrive - Střední škola informatiky, poštovnictví a finančnictví Brno\it2b_prog\BlockGame\bin\Debug\net8.0-windows\BlockGame.dll
+C:\Users\st026360\OneDrive - Střední škola informatiky, poštovnictví a finančnictví Brno\it2b_prog\BlockGame\bin\Debug\net8.0-windows\BlockGame.pdb
+C:\Users\st026360\OneDrive - Střední škola informatiky, poštovnictví a finančnictví Brno\it2b_prog\BlockGame\obj\Debug\net8.0-windows\BlockGame.Form1.resources
+C:\Users\st026360\OneDrive - Střední škola informatiky, poštovnictví a finančnictví Brno\it2b_prog\BlockGame\obj\Debug\net8.0-windows\BlockGame.csproj.GenerateResource.cache
+C:\Users\st026360\OneDrive - Střední škola informatiky, poštovnictví a finančnictví Brno\it2b_prog\BlockGame\obj\Debug\net8.0-windows\BlockGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\st026360\OneDrive - Střední škola informatiky, poštovnictví a finančnictví Brno\it2b_prog\BlockGame\obj\Debug\net8.0-windows\BlockGame.AssemblyInfoInputs.cache
+C:\Users\st026360\OneDrive - Střední škola informatiky, poštovnictví a finančnictví Brno\it2b_prog\BlockGame\obj\Debug\net8.0-windows\BlockGame.AssemblyInfo.cs
+C:\Users\st026360\OneDrive - Střední škola informatiky, poštovnictví a finančnictví Brno\it2b_prog\BlockGame\obj\Debug\net8.0-windows\BlockGame.csproj.CoreCompileInputs.cache
+C:\Users\st026360\OneDrive - Střední škola informatiky, poštovnictví a finančnictví Brno\it2b_prog\BlockGame\obj\Debug\net8.0-windows\BlockGame.sourcelink.json
+C:\Users\st026360\OneDrive - Střední škola informatiky, poštovnictví a finančnictví Brno\it2b_prog\BlockGame\obj\Debug\net8.0-windows\BlockGame.dll
+C:\Users\st026360\OneDrive - Střední škola informatiky, poštovnictví a finančnictví Brno\it2b_prog\BlockGame\obj\Debug\net8.0-windows\refint\BlockGame.dll
+C:\Users\st026360\OneDrive - Střední škola informatiky, poštovnictví a finančnictví Brno\it2b_prog\BlockGame\obj\Debug\net8.0-windows\BlockGame.pdb
+C:\Users\st026360\OneDrive - Střední škola informatiky, poštovnictví a finančnictví Brno\it2b_prog\BlockGame\obj\Debug\net8.0-windows\BlockGame.genruntimeconfig.cache
+C:\Users\st026360\OneDrive - Střední škola informatiky, poštovnictví a finančnictví Brno\it2b_prog\BlockGame\obj\Debug\net8.0-windows\ref\BlockGame.dll
